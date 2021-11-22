@@ -8,12 +8,20 @@
     {
       "selection": [
         {
+          "order": 174,
+          "id": 17,
+          "name": "icon-user",
+          "prevSize": 32,
+          "code": 59664,
+          "tempChar": ""
+        },
+        {
           "order": 172,
           "id": 15,
           "name": "icon-securite-thin",
           "prevSize": 32,
           "code": 59662,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 171,
@@ -21,7 +29,7 @@
           "name": "icon-securite",
           "prevSize": 32,
           "code": 59663,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 162,
@@ -29,7 +37,7 @@
           "name": "icon-ecologique-thin",
           "prevSize": 32,
           "code": 59648,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 163,
@@ -37,7 +45,7 @@
           "name": "icon-ecologique",
           "prevSize": 32,
           "code": 59649,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 164,
@@ -45,7 +53,7 @@
           "name": "icon-economique-thin",
           "prevSize": 32,
           "code": 59650,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 165,
@@ -53,7 +61,7 @@
           "name": "icon-economique",
           "prevSize": 32,
           "code": 59651,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 166,
@@ -61,7 +69,7 @@
           "name": "icon-ethique-thin",
           "prevSize": 32,
           "code": 59652,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 167,
@@ -69,7 +77,7 @@
           "name": "icon-ethique",
           "prevSize": 32,
           "code": 59653,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 168,
@@ -77,7 +85,7 @@
           "name": "icon-juridique-thin",
           "prevSize": 32,
           "code": 59654,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 169,
@@ -85,7 +93,7 @@
           "name": "icon-juridique",
           "prevSize": 32,
           "code": 59655,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 170,
@@ -93,7 +101,7 @@
           "name": "icon-strategique-thin",
           "prevSize": 32,
           "code": 59656,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 158,
@@ -101,7 +109,7 @@
           "name": "icon-strategique",
           "prevSize": 32,
           "code": 59657,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 159,
@@ -109,7 +117,7 @@
           "name": "link-blank",
           "prevSize": 32,
           "code": 59658,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 161,
@@ -117,7 +125,7 @@
           "name": "link",
           "prevSize": 32,
           "code": 59659,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 160,
@@ -125,7 +133,7 @@
           "name": "icon-download",
           "prevSize": 32,
           "code": 59660,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 157,
@@ -133,20 +141,37 @@
           "name": "icon-document",
           "prevSize": 32,
           "code": 59661,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 0,
       "metadata": {
         "name": "Noesya",
         "importSize": {
-          "width": 83,
-          "height": 93
+          "width": 40,
+          "height": 40
         }
       },
       "height": 1024,
       "prevSize": 32,
       "icons": [
+        {
+          "id": 17,
+          "paths": [
+            "M202.552 671.885c36.807-36.808 86.728-57.485 138.781-57.485h341.335c52.052 0 101.972 20.677 138.78 57.485s57.485 86.728 57.485 138.783v85.332c0 14.139-11.461 25.6-25.6 25.6s-25.6-11.461-25.6-25.6v-85.332c0-38.474-15.283-75.374-42.488-102.579s-64.105-42.488-102.577-42.488h-341.335c-38.474 0-75.372 15.283-102.577 42.488s-42.489 64.105-42.489 102.579v85.332c0 14.139-11.462 25.6-25.6 25.6s-25.6-11.461-25.6-25.6v-85.332c0-52.055 20.678-101.975 57.485-138.783z",
+            "M512 153.6c-80.118 0-145.068 64.948-145.068 145.068 0 80.118 64.95 145.065 145.068 145.065s145.068-64.947 145.068-145.065c0-80.119-64.95-145.068-145.068-145.068zM315.732 298.668c0-108.396 87.872-196.268 196.268-196.268s196.268 87.871 196.268 196.268c0 108.396-87.872 196.265-196.268 196.265s-196.268-87.869-196.268-196.265z"
+          ],
+          "attrs": [
+            {},
+            {}
+          ],
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "grid": 0,
+          "tags": [
+            "icon-user"
+          ]
+        },
         {
           "id": 15,
           "paths": [
